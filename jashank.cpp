@@ -9,5 +9,6 @@ int main(){
         sum=sum+counter;
     }
     cout<<sum<<endl;
+    cout<<"My name is jashank";
     return 0;
 }
